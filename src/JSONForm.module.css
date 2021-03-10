@@ -1,0 +1,24 @@
+.Title {
+    margin: 0.75rem;
+}
+
+.Input {
+    margin: 0.5rem;
+}
+
+.Label {
+    margin: 0.5rem;
+    display: inline-block;
+    clear: left;
+    width: 8rem;
+    text-align: right;
+}
+
+.Button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 0.5rem;
+    margin: 0.75rem 0.75rem 0.75rem 10rem;
+}
